@@ -1,7 +1,7 @@
 {
    "Name": "Gifts From Wizard",
    "Author": "LoganDoidao",
-   "Version": "1.0",
+   "Version": "1.1",
    "MinimumApiVersion": "3.7", 
    "Description": "Receive letters and gifts from your friends. ",
    "UniqueID": "LoganDoidao.GiftsFromWizard",
